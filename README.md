@@ -10,14 +10,14 @@ I am pursuing industry credentials like **CompTIA Security+** and **TryHackMe SO
 
 ## 🔒 Featured Projects
 
-- [**Network Forensics**](Network_Forensics.md) – Performed memory and traffic analysis using tools like Wireshark, tcpdump, and Volatility 3 to trace attacks and uncover malicious activity.  
-- [**Cryptography**](Cryptography.md) – Solved cryptographic challenges including hash cracking, classical ciphers, and hidden data extraction.  
-- [**Web Security**](WebSecurity.md) – Identified and exploited vulnerabilities such as SQL injection, XSS, and authentication flaws in lab environments.  
-- [**Malware Analysis**](Malware_Analysis.md) – Investigated artifacts and logs to detect malware activity and establish indicators of compromise (IOCs).  
-- [**Digital Forensics**](Digital_Forensics.md) – Applied forensic techniques to recover, interpret, and analyze digital evidence.  
-- [**Password Cracking**](Password_Cracking.md) – Practiced cracking techniques on vulnerable hashes to understand attacker methods and mitigation strategies.  
-- [**Network Protocol Analysis**](Network_Protocol_Analysis.md) – Analyzed traffic flows and anomalies in network captures to identify suspicious behavior.  
-- [**Binary Exploitation**](Binary_Exploitation.md) – Reverse engineered vulnerable programs and performed controlled exploitation.  
+- [**Network Forensics**](Capture_The_Flag/Network_Forensics.md) – Performed memory and traffic analysis using tools like Wireshark, tcpdump, and Volatility 3 to trace attacks and uncover malicious activity.  
+- [**Cryptography**](Capture_The_Flag/Cryptography.md) – Solved cryptographic challenges including hash cracking, classical ciphers, and hidden data extraction.  
+- [**Web Security**](Capture_The_Flag/WebSecurity.md) – Identified and exploited vulnerabilities such as SQL injection, XSS, and authentication flaws in lab environments.  
+- [**Malware Analysis**](Capture_The_Flag/Malware_Analysis.md) – Investigated artifacts and logs to detect malware activity and establish indicators of compromise (IOCs).  
+- [**Digital Forensics**](Capture_The_Flag/Digital_Forensics.md) – Applied forensic techniques to recover, interpret, and analyze digital evidence.  
+- [**Password Cracking**](Capture_The_Flag/Password_Cracking.md) – Practiced cracking techniques on vulnerable hashes to understand attacker methods and mitigation strategies.  
+- [**Network Protocol Analysis**](Capture_The_Flag/Network_Protocol_Analysis.md) – Analyzed traffic flows and anomalies in network captures to identify suspicious behavior.  
+- [**Binary Exploitation**](Capture_The_Flag/Binary_Exploitation.md) – Reverse engineered vulnerable programs and performed controlled exploitation.  
 
 ---
 
