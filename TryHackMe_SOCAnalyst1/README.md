@@ -21,7 +21,7 @@ I’m actively working through more rooms in this path, so this portfolio will c
 
 ---
 
-### 2. [SOC_Analyst_Workflow_Summit.md](SOC_Analyst_Workflow_Summit.md)
+### 2. [Summit](SOC_Analyst_Workflow_Summit.md)
 - **Focus:** Detection engineering & SOC operations  
 - **Skills Demonstrated:**  
   - Hash-based detection in malware sandboxes  
@@ -30,6 +30,17 @@ I’m actively working through more rooms in this path, so this portfolio will c
   - Leveraging **Sysmon logs** for detection tuning  
   - Aligning detections with the **MITRE ATT&CK** framework  
 - **Recruiter Insight:** Demonstrates the ability to build layered defenses (Pyramid of Pain) and write behavioral detections — critical SOC analyst skills.  
+
+---
+
+### 3. [Tropic Trooper.md](OSINT_Tropic_Trooper.md)
+- **Focus:** Cyber Threat Intelligence on a real-world APT  
+- **Skills Demonstrated:**  
+  - Enrichment with **OpenCTI** and STIX objects  
+  - Mapping TTPs in **MITRE ATT&CK Navigator**  
+  - Identifying phishing + USB-based malware vectors  
+  - Structuring findings with screenshots and IOC tables  
+- **Recruiter Insight:** Highlights ability to research real threat actors, enrich findings, and document a CTI workflow with professional reporting style.  
 
 ---
 
