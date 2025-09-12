@@ -26,11 +26,8 @@ Hands-on practical labs and case studies from the **TryHackMe SOC Analyst I Path
 ---
 
 ### 3. [Capture the Flag](Capture_The_Flag/)  
-Practical challenges simulating real-world attacker and defender techniques.  
-- **Binary Exploitation** – Reverse engineering and exploit development.  
-- **Digital Forensics** – Memory, disk, and log analysis.  
-- **Cryptography** – Hash cracking, cipher solving, and data recovery.  
-- **Web & Network Security** – Detecting vulnerabilities and malicious traffic.  
+Practical challenges simulating real-world attacker and defender techniques.
+- **Network Forensics** – Detecting malicious traffic.  
 
 ---
 
