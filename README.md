@@ -1,44 +1,47 @@
-# Cybersecurity Portfolio – Dane Aiken
+# Cybersecurity Portfolio – Dane Aiken 🛡️  
 
-## 👋 About Me
+## 👋 About Me  
+I am a Computer Science graduate from Florida State University with a strong focus on **cybersecurity and defense operations**. My experience spans **SIEM monitoring, digital forensics, threat intelligence, and capture-the-flag problem solving**.  
 
-I am a Computer Science graduate from Florida State University with a passion for cybersecurity and threat defense.  
-My experience spans **incident response, network monitoring, memory forensics, and web security**, gained through coursework, CTFs, and certifications.  
-I am pursuing industry credentials like **CompTIA Security+** and **TryHackMe SOC Analyst 1** to further strengthen my skills and prepare for a career as a **SOC Analyst or Junior Security Analyst**.  
-
----
-
-## 🔒 Featured Projects
-
-- [**Network Forensics**](Capture_The_Flag/Network_Forensics.md) – Performed memory and traffic analysis using tools like Wireshark, tcpdump, and Volatility 3 to trace attacks and uncover malicious activity.  
-- [**Cryptography**](Capture_The_Flag/Cryptography.md) – Solved cryptographic challenges including hash cracking, classical ciphers, and hidden data extraction.  
-- [**Web Security**](Capture_The_Flag/WebSecurity.md) – Identified and exploited vulnerabilities such as SQL injection, XSS, and authentication flaws in lab environments.  
-- [**Malware Analysis**](Capture_The_Flag/Malware_Analysis.md) – Investigated artifacts and logs to detect malware activity and establish indicators of compromise (IOCs).  
-- [**Digital Forensics**](Capture_The_Flag/Digital_Forensics.md) – Applied forensic techniques to recover, interpret, and analyze digital evidence.  
-- [**Password Cracking**](Capture_The_Flag/Password_Cracking.md) – Practiced cracking techniques on vulnerable hashes to understand attacker methods and mitigation strategies.  
-- [**Network Protocol Analysis**](Capture_The_Flag/Network_Protocol_Analysis.md) – Analyzed traffic flows and anomalies in network captures to identify suspicious behavior.  
-- [**Binary Exploitation**](Capture_The_Flag/Binary_Exploitation.md) – Reverse engineered vulnerable programs and performed controlled exploitation.  
+I have completed the hold the **CompTIA Security+ certification** and **Google Cybersecurity Professional Certificate**. I am currently pursuing the **CompTIA CySA+ (expected October 2025)**. This portfolio demonstrates my hands-on learning, research, and applied skills through three major areas of practice.  
 
 ---
 
-## 📜 Certifications
-- Google Cybersecurity Certificate (Completed)  
-- CompTIA Security+ (Expected Sept 5, 2025)  
-- TryHackMe SOC Analyst 1 (Expected Sept 17, 2025)  
+## 📂 Portfolio Structure  
+
+### 1. [Splunk Home Labs](Splunk_HomeLabs/)  
+Hands-on labs using **Splunk Enterprise** to build SOC analysis skills.  
+- Ingesting logs from different sources (JSON, Apache, etc.).  
+- Writing SPL queries to detect attacks (SSH brute force, web application attacks).  
+- Building dashboards and alerts to simulate a real SOC workflow.  
 
 ---
 
-## ⚡ Skills Highlighted
-- Incident response & log analysis  
-- Threat detection & alert triage (SIEM basics)  
-- Network monitoring & traffic analysis (Wireshark, tcpdump)  
-- Memory forensics (Volatility 3)  
-- Cryptography & password security  
-- Web application security (OWASP Top 10)  
-- Linux/Unix security tools (Nmap, Netcat, etc.)  
+### 2. [TryHackMe Labs](TryHackMe_SOCAnalyst1)
+Hands-on practical labs and case studies from the **TryHackMe SOC Analyst I Path**.  
+- **APT Case Studies** – Tropic Trooper (USBFerry) and other campaigns.  
+- **Indicators of Compromise (IOCs)** collection and STIX/TAXII formatting.  
+- **OpenCTI analysis** with structured reporting and screenshots.  
 
 ---
 
-## 📫 Contact
-- **Email:** daneoaiken@gmail.com  
-- **LinkedIn:** [linkedin.com/in/dane-aiken](https://www.linkedin.com/in/dane-aiken/)  
+### 3. [Capture the Flag](Capture_The_Flag/)  
+Practical challenges simulating real-world attacker and defender techniques.  
+- **Binary Exploitation** – Reverse engineering and exploit development.  
+- **Digital Forensics** – Memory, disk, and log analysis.  
+- **Cryptography** – Hash cracking, cipher solving, and data recovery.  
+- **Web & Network Security** – Detecting vulnerabilities and malicious traffic.  
+
+---
+
+## 🚀 Career Focus  
+This portfolio is part of my preparation for roles such as:  
+- **SOC Analyst (Tier 1)**  
+- **Junior Cybersecurity Analyst**  
+- **Junior Threat Intelligence Analyst**  
+
+By combining **SIEM investigations, practical SOC labs, and CTF challenges**, I showcase a well-rounded skillset in detection engineering, analysis, and defense operations.  
+
+---
+
+✨ Always learning, always improving.  
