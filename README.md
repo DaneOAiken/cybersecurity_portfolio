@@ -3,7 +3,7 @@
 ## 👋 About Me  
 I am a Computer Science graduate from Florida State University with a strong focus on **cybersecurity and defense operations**. My experience spans **SIEM monitoring, digital forensics, threat intelligence, and capture-the-flag problem solving**.  
 
-I have completed the hold the **CompTIA Security+ certification** and **Google Cybersecurity Professional Certificate**. I am currently pursuing the **CompTIA CySA+ (expected October 2025)**. This portfolio demonstrates my hands-on learning, research, and applied skills through three major areas of practice.  
+I have completed the  **Google Cybersecurity Professional Certificate**, **CompTIA Security+ certification**, **CompTIA CySA+**, and **TryHackMe SAL1 certification**. This portfolio demonstrates my hands-on learning, research, and applied skills through three major areas of practice.  
 
 ---
 
