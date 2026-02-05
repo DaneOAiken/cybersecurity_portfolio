@@ -34,10 +34,10 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 
 | Certification | Issuer | Focus Area |
 |:-------------:|:------:|:----------:|
-| ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white) | CompTIA | Security Fundamentals |
-| ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white) | CompTIA | Security Analytics |
-| ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white) | Google | Professional Certificate |
-| ![TryHackMe SAL1](https://img.shields.io/badge/TryHackMe-SOC_Analyst_1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) | TryHackMe | SOC Operations |
+| [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20Security+%20ce%20certificate.pdf) | CompTIA | Security Fundamentals |
+| [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20CySA+%20ce%20certificate.pdf) | CompTIA | Security Analytics |
+| [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](_Certifications/Google%20Cybersecurity%20Certificate.pdf) | Google | Professional Certificate |
+| [![TryHackMe SAL1](https://img.shields.io/badge/TryHackMe-SOC_Analyst_1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](_Certifications/TryHackMe%20SAL1%20certificate.pdf) | TryHackMe | SOC Operations |
 
 </div>
 
