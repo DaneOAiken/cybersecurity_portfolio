@@ -1,59 +1,49 @@
-# Splunk Home Labs 🖥️
+# Splunk Home Labs 🔍
 
-## 📂 Overview
-
-This folder contains hands-on Splunk labs designed to build SIEM and detection engineering skills. Each walkthrough mirrors real-world analyst workflows: ingesting logs, running searches, visualizing results, and creating automated alerts.
+Hands-on SIEM analysis and threat detection using Splunk Enterprise. Each lab mirrors real-world SOC analyst workflows including log ingestion, SPL query development, dashboard creation, and alert configuration.
 
 ---
 
-## 🔒 Completed Walkthroughs
+## 📂 Labs
 
-### 1. [SSH\_Brute\_Force\_Detection.md](SSH_Brute_Force_Detection.md)
-
-* **Dataset:** Kaggle SSH Brute Force JSON logs
-* **Focus:** Detect brute force attempts by attacker IP and targeted usernames
-* **Highlights:**
-
-  * Parsed JSON into fields (`foreign_ip`, `username`, `timestamp`)
-  * Built searches for IP counts, username counts, and time-based trends
-  * Created reports and dashboards to visualize attack activity
-  * Configured a scheduled weekly alert to notify on >5 attempts from a single IP
-
-### 2. [Detecting_Web_Application_Attacks_in_OWASP_Juice_Shop_Logs.md](Detecting_Web_Application_Attacks_in_OWASP_Juice_Shop_Logs.md)
-
-* **Dataset:** OWASP Juice Shop traffic (captured via OWASP ZAP, exported as CSV)
-* **Focus:** Detect common web application attacks (SQLi, password spraying, directory traversal, command injection)
-* **Highlights:**
-
-  * Ingested ZAP-exported HTTP traffic into a custom Splunk index (`juice`)
-  * Verified fields and decoded URL payloads for analysis
-  * Built detections for SQL injection, traversal, password spraying, and command injection
-  * Created timecharts to visualize attack spikes
-  * Summarized top payloads, endpoints, and sources in reports
-  * Designed a dashboard combining pie charts, timecharts, and summary tables
-  * Configured a scheduled alert to detect password spraying (>20 failed logins in 10 minutes)
+| Lab | Focus | Key Skills |
+|:----|:------|:-----------|
+| [SSH Brute Force Detection](SSH_Brute_Force_Detection.md) | Authentication attack detection | JSON parsing, IP analysis, alerting |
+| [OWASP Juice Shop Analysis](Detecting_Web_Application_Attacks_in_OWASP_Juice_Shop_Logs.md) | Web application attack detection | SQLi, XSS, traversal detection |
 
 ---
 
-## 📜 Upcoming Walkthroughs
+## 🔒 Lab 1: SSH Brute Force Detection
 
-* **Walkthrough 3:** IDS/Firewall Alerts (Snort/Suricata)
+**Dataset:** Kaggle SSH Brute Force JSON logs
 
----
-
-## ⚡ Skills Highlighted
-
-* Splunk data ingestion & index configuration
-* SPL query building (`stats`, `top`, `timechart`)
-* Security detection workflows (brute force, web app attacks, IDS alerts)
-* Dashboard building & visualization
-* Alerting and automation in Splunk
+- Parsed JSON into fields (`foreign_ip`, `username`, `timestamp`)
+- Built searches for IP counts, username counts, and time-based trends
+- Created reports and dashboards to visualize attack activity
+- Configured scheduled alerts for >5 attempts from single IP
 
 ---
 
-## 📫 Contact
+## 🌐 Lab 2: Web Application Attack Detection
 
-* **Email:** [daneoaiken@gmail.com](mailto:daneoaiken@gmail.com)
-* **LinkedIn:** [linkedin.com/in/dane-aiken](https://www.linkedin.com/in/dane-aiken/)
+**Dataset:** OWASP Juice Shop traffic (via OWASP ZAP)
+
+- Ingested HTTP traffic into custom Splunk index
+- Built detections for SQL injection, directory traversal, password spraying
+- Created timecharts to visualize attack patterns
+- Designed dashboard with pie charts, timecharts, and summary tables
+- Configured alert for password spraying (>20 failed logins in 10 min)
 
 ---
+
+## ⚡ Skills Demonstrated
+
+- Splunk data ingestion & index configuration
+- SPL query building (`stats`, `top`, `timechart`, `rex`)
+- Security detection workflows
+- Dashboard building & visualization
+- Alerting and automation
+
+---
+
+[← Back to Portfolio](../README.md)

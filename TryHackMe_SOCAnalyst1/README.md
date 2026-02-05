@@ -1,67 +1,60 @@
-# TryHackMe — SOC Analyst I Path 📊🔒
+# TryHackMe SOC Analyst Labs 🎖️
 
-This folder contains my write-ups and hands-on work for rooms in the **TryHackMe SOC Analyst I learning path**.  
-These exercises focus on **detection, analysis, and response** — the core skills of a SOC or Junior Cybersecurity Analyst.  
-
-I’m actively working through more rooms in this path, so this portfolio will continue to expand.  
+Real-world threat intelligence and incident response case studies from the TryHackMe SOC Analyst Level 1 learning path. These exercises focus on detection, analysis, and response — the core skills of a SOC Analyst.
 
 ---
 
-## 📂 Completed Projects
+## 📂 Completed Labs
 
-### 1. [Friday Overtime](OSINT_Friday_Overtime.md)
-- **Focus:** Threat intelligence & malware analysis  
-- **Skills Demonstrated:**  
-  - Extracting and hashing suspicious files (`sha1sum`, `unzip`, Linux navigation)  
-  - Malware framework attribution (MgBot / Evasive Panda APT)  
-  - IOC enrichment with **CyberChef** (defanging URLs/IPs)  
-  - OSINT investigation with **VirusTotal** and open-source reporting  
-  - Mapping behaviors to **MITRE ATT&CK**  
-- **Recruiter Insight:** Shows ability to work as a CTI/SOC analyst, moving from raw malware artifacts to actionable intelligence.  
+| Lab | Focus | Key Skills |
+|:----|:------|:-----------|
+| [Friday Overtime](OSINT_Friday_Overtime.md) | Threat Intelligence & Malware Analysis | IOC enrichment, MITRE ATT&CK |
+| [Summit](SOC_Analyst_Workflow_Summit.md) | Detection Engineering & SOC Operations | Sigma rules, Sysmon logs |
+| [Tropic Trooper](OSINT_Tropic_Trooper.md) | APT Investigation | OpenCTI, STIX, threat actor research |
 
 ---
 
-### 2. [Summit](SOC_Analyst_Workflow_Summit.md)
-- **Focus:** Detection engineering & SOC operations  
-- **Skills Demonstrated:**  
-  - Hash-based detection in malware sandboxes  
-  - IP/domain blocking with firewall and DNS filter rules  
-  - Writing **custom Sigma rules** for registry, file, and network activity  
-  - Leveraging **Sysmon logs** for detection tuning  
-  - Aligning detections with the **MITRE ATT&CK** framework  
-- **Recruiter Insight:** Demonstrates the ability to build layered defenses (Pyramid of Pain) and write behavioral detections — critical SOC analyst skills.  
+## 🔗 Lab 1: Friday Overtime
+
+**Focus:** Threat intelligence & malware analysis
+
+- Extracted and hashed suspicious files
+- Attributed malware to MgBot / Evasive Panda APT
+- IOC enrichment with CyberChef and VirusTotal
+- Mapped behaviors to MITRE ATT&CK framework
 
 ---
 
-### 3. [Tropic Trooper.md](OSINT_Tropic_Trooper.md)
-- **Focus:** Cyber Threat Intelligence on a real-world APT  
-- **Skills Demonstrated:**  
-  - Enrichment with **OpenCTI** and STIX objects  
-  - Mapping TTPs in **MITRE ATT&CK Navigator**  
-  - Identifying phishing + USB-based malware vectors  
-  - Structuring findings with screenshots and IOC tables  
-- **Recruiter Insight:** Highlights ability to research real threat actors, enrich findings, and document a CTI workflow with professional reporting style.  
+## 🏔️ Lab 2: Summit
+
+**Focus:** Detection engineering & SOC operations
+
+- Hash-based detection in malware sandboxes
+- IP/domain blocking with firewall and DNS rules
+- Wrote custom Sigma rules for registry, file, and network activity
+- Leveraged Sysmon logs for detection tuning
 
 ---
 
-## 🚀 What’s Next
-I plan to continue this path by completing additional rooms that expand my capabilities in:  
-- SIEM tools & log analysis  
-- Incident response workflows  
-- Malware investigation  
-- Advanced detection engineering  
+## 🌴 Lab 3: Tropic Trooper
 
-Each completed room will include a dedicated README with process steps, screenshots, and takeaways.  
+**Focus:** Cyber Threat Intelligence on real-world APT
 
----
-
-## 🛠 Skills Highlighted Across This Folder
-- Threat Intelligence Analysis  
-- Detection Engineering (Sigma, Sysmon, MITRE ATT&CK)  
-- Malware Analysis (sandboxing, hashing, attribution)  
-- Network & Log Analysis  
-- Incident Response Reporting  
+- Enrichment with OpenCTI and STIX objects
+- Mapped TTPs in MITRE ATT&CK Navigator
+- Identified phishing + USB-based malware vectors
+- Documented findings with IOC tables
 
 ---
 
-📌 *This folder is part of my Cybersecurity Portfolio, where I showcase projects that reflect the skills I bring to a Junior Security Analyst or SOC Analyst role.*
+## ⚡ Skills Demonstrated
+
+- Threat Intelligence Analysis
+- Detection Engineering (Sigma, Sysmon)
+- MITRE ATT&CK Framework
+- Malware Analysis & Attribution
+- Incident Response Reporting
+
+---
+
+[← Back to Portfolio](../README.md)
