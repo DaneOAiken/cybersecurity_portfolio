@@ -1,11 +1,11 @@
-# Cybersecurity Portfolio – Dane Aiken 🛡️
+# IT & Cybersecurity Portfolio – Dane Aiken 🛡️
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dane_Aiken-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dane-aiken)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daneoaiken@gmail.com)
+[![Email](https://img.shields.io/badge/Email-daneoaiken@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daneoaiken@gmail.com)
 
-**Aspiring SOC Analyst | Threat Detection Specialist | CTF Enthusiast**
+**IT Support | Help Desk | Cybersecurity | SOC Analyst**
 
 *Florida State University – Computer Science Graduate*
 
@@ -15,16 +15,16 @@
 
 ## 🔗 Quick Navigation
 
-| [🔍 Splunk Labs](#-splunk-home-labs) | [🎖️ TryHackMe](#️-tryhackme-soc-analyst-labs) | [🚩 CTF Challenges](#-capture-the-flag-challenges) | [📜 Certifications](#-certifications) |
-|:---:|:---:|:---:|:---:|
+| [🔧 AD Lab](#-active-directory-lab) | [🔍 Splunk Labs](#-splunk-home-labs) | [🎖️ TryHackMe](#️-tryhackme-soc-analyst-labs) | [🚩 CTF Challenges](#-capture-the-flag-challenges) | [📜 Certifications](#-certifications) |
+|:---:|:---:|:---:|:---:|:---:|
 
 ---
 
 ## 👋 About Me
 
-I am a **Computer Science graduate from Florida State University** with a specialized focus on **cybersecurity and defensive operations**. My hands-on experience spans **SIEM analysis, digital forensics, threat intelligence, incident response, and CTF problem-solving**.
+I am a **Computer Science graduate from Florida State University** with hands-on experience in **IT support, system administration, and cybersecurity**. My skills span **Active Directory management, Windows Server administration, SIEM analysis, digital forensics, threat intelligence, incident response, and CTF problem-solving**.
 
-I'm passionate about protecting organizations from cyber threats and continuously expanding my technical capabilities through hands-on labs, certifications, and competitive challenges.
+I'm passionate about solving technical problems, supporting end users, and protecting organizations from cyber threats — and I'm continuously expanding my capabilities through hands-on labs, certifications, and competitive challenges.
 
 ---
 
@@ -34,6 +34,7 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 
 | Certification | Issuer | Focus Area |
 |:-------------:|:------:|:----------:|
+| [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20A+%20ce%20certificate.pdf) | CompTIA | IT Fundamentals & Support |
 | [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20Security+%20ce%20certificate.pdf) | CompTIA | Security Fundamentals |
 | [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20CySA+%20ce%20certificate.pdf) | CompTIA | Security Analytics |
 | [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](_Certifications/Google%20Cybersecurity%20Certificate.pdf) | Google | Professional Certificate |
@@ -47,13 +48,24 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 
 | Role | Core Skills |
 |:-----|:------------|
+| **Help Desk / IT Support** | Active Directory, account management, troubleshooting, Group Policy |
+| **System Administrator** | Windows Server, DNS, NTFS permissions, PowerShell |
 | **SOC Analyst (Tier 1/2)** | Threat detection, incident response, SIEM monitoring |
 | **Junior Cybersecurity Analyst** | Vulnerability assessment, security operations |
-| **Threat Intelligence Analyst** | IOC analysis, threat hunting, intelligence reporting |
 
 ---
 
 ## 🛠️ Technical Skills
+
+### IT Support & Administration
+
+| Category | Tools & Skills |
+|:---------|:---------------|
+| **Active Directory** | User provisioning, group management, OU design, account lifecycle |
+| **Windows Server** | AD DS, DNS, Group Policy, file shares, NTFS permissions |
+| **Networking** | TCP/IP, DHCP, DNS, static addressing, network segmentation |
+| **Virtualization** | VMware Workstation Pro, virtual networking |
+| **Troubleshooting** | Event Viewer, fsmgmt.msc, gpresult, ipconfig, nslookup |
 
 ### Security Tools & Platforms
 
@@ -70,6 +82,7 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 
 | Language | Use Case |
 |:---------|:---------|
+| **PowerShell** | AD automation, user provisioning, system administration |
 | **Python** | Automation, scripting, exploit development |
 | **Bash** | Linux administration, log analysis |
 | **SQL** | Database queries, SIEM searches |
@@ -78,6 +91,18 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 ---
 
 ## 📂 Portfolio Projects
+
+### 🔧 Active Directory Lab
+
+**Enterprise domain simulation with centralized authentication, RBAC, and real-world Help Desk scenarios**
+
+| Project | Description |
+|:--------|:------------|
+| [Active Directory Lab Walkthrough](Active_Directory_Lab/Active_Directory_Lab_Part1.md) | AD DS deployment, OU design, NTFS permissions, domain join, access control testing, troubleshooting |
+
+**Skills:** Windows Server, Active Directory, DNS, NTFS/Share Permissions, VMware, PowerShell
+
+---
 
 ### 🔍 Splunk Home Labs
 
@@ -127,6 +152,7 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 
 | Category | Projects | Difficulty |
 |:---------|:--------:|:----------:|
+| Active Directory | 1 Lab | ⭐⭐⭐⭐ |
 | SIEM Analysis | 2 Labs | ⭐⭐⭐⭐ |
 | Threat Intelligence | 3 Cases | ⭐⭐⭐⭐ |
 | CTF Challenges | 25+ | ⭐⭐⭐⭐⭐ |
@@ -137,7 +163,7 @@ I'm passionate about protecting organizations from cyber threats and continuousl
 
 <div align="center">
 
-I'm actively seeking opportunities in **SOC operations, threat detection, and incident response**.
+I'm actively seeking opportunities in **IT support, system administration, and cybersecurity operations**.
 
 | Platform | Link |
 |:--------:|:----:|
