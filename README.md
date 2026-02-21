@@ -98,7 +98,7 @@ I'm passionate about solving technical problems, supporting end users, and prote
 
 | Project | Description |
 |:--------|:------------|
-| [Active Directory Lab Walkthrough](Active_Directory_Lab/Active_Directory_Lab_Part1.md) | AD DS deployment, OU design, NTFS permissions, domain join, access control testing, troubleshooting |
+| [Active Directory Lab](Active_Directory_Lab/) | AD DS deployment, OU design, NTFS permissions, domain join, Help Desk ticket simulations |
 
 **Skills:** Windows Server, Active Directory, DNS, NTFS/Share Permissions, VMware, PowerShell
 
