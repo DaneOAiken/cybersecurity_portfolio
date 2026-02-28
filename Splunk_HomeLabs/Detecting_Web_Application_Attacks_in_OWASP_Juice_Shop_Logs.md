@@ -1,5 +1,9 @@
 # Splunk Home Lab — Walkthrough 2 🛡️
 
+[← Back to Splunk Labs](README.md) · [← Back to Portfolio](../README.md)
+
+---
+
 **Scenario:** Detecting Web Application Attacks in OWASP Juice Shop Logs
 
 ---
@@ -147,3 +151,7 @@ This walkthrough demonstrated a complete analyst workflow:
 * Configure a scheduled alert for password spraying
 
 **Outcome:** A repeatable SOC analyst workflow for analyzing and responding to web application attack traffic.
+
+---
+
+[← Back to Splunk Labs](README.md) · [← Back to Portfolio](../README.md)

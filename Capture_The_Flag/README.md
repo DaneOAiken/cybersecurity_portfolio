@@ -1,5 +1,9 @@
 # Capture The Flag Challenges 🚩
 
+[← Back to Portfolio](../README.md)
+
+---
+
 **25+ hands-on CTF challenges** completed during Florida State University's CTF course. These challenges span cryptography, web exploitation, reverse engineering, binary exploitation, and digital forensics.
 
 ---
@@ -8,19 +12,19 @@
 
 | Category | Challenges | Key Tools |
 |:---------|:----------:|:----------|
-| [Cryptography](./Cryptography/) | 3 | CyberChef, Python |
-| [Web Exploitation](./Web_Exploitation/) | 6 | Burp Suite, DevTools |
-| [Reverse Engineering](./Reverse_Engineering/) | 9 | Ghidra, GDB, pwndbg |
-| [Binary Exploitation](./Binary_Exploitation/) | 3 | pwntools, pwndbg |
-| [Digital Forensics](./Forensics/) | 6 | Wireshark, Volatility |
-| [Final CTF](./Final_CTF/) | 12 | Multi-domain |
+| [Cryptography](#-cryptography) | 3 | CyberChef, Python |
+| [Web Exploitation](#-web-exploitation) | 6 | Burp Suite, DevTools |
+| [Reverse Engineering](#-reverse-engineering) | 9 | Ghidra, GDB, pwndbg |
+| [Binary Exploitation](#-binary-exploitation) | 3 | pwntools, pwndbg |
+| [Digital Forensics](#-digital-forensics) | 6 | Wireshark, Volatility |
+| [Final CTF](#-final-ctf-competition) | 12 | Multi-domain |
 | **Total** | **25+** | |
 
 ---
 
 ## 🔐 Cryptography
 
-[**View Writeups →**](./Cryptography/Cryptography_Fundamentals.md)
+[**View Writeups →**](Cryptography_Fundamentals.md)
 
 | Challenge | Technique |
 |:----------|:----------|
@@ -32,7 +36,7 @@
 
 ## 🌐 Web Exploitation
 
-[**View Writeups →**](./Web_Exploitation/Web_Security_Fundamentals.md)
+[**View Writeups →**](Web_Security_Fundamentals.md)
 
 | Challenge | Vulnerability |
 |:----------|:--------------|
@@ -44,7 +48,7 @@
 
 ## 🔧 Reverse Engineering
 
-[**Binary Reversing Fundamentals →**](./Reverse_Engineering/Binary_Reversing_Fundamentals.md)
+[**Binary Reversing Fundamentals →**](Binary_Reversing_Fundamentals.md)
 
 | Challenge | Technique |
 |:----------|:----------|
@@ -52,7 +56,7 @@
 | Four Nations | Anti-Debug Bypass |
 | Old Skool | Memory Inspection |
 
-[**Advanced Reverse Engineering →**](./Reverse_Engineering/Advanced_Reverse_Engineering.md)
+[**Advanced Reverse Engineering →**](Advanced_Reverse_Engineering.md)
 
 | Challenge | Technique |
 |:----------|:----------|
@@ -64,7 +68,7 @@
 
 ## 💥 Binary Exploitation
 
-[**View Writeups →**](./Binary_Exploitation/Binary_Exploitation_Fundamentals.md)
+[**View Writeups →**](Binary_Exploitation_Fundamentals.md)
 
 | Challenge | Vulnerability |
 |:----------|:--------------|
@@ -76,7 +80,7 @@
 
 ## 🔍 Digital Forensics
 
-[**Network Forensics →**](./Forensics/Network_Forensics.md)
+[**Network Forensics →**](Network_Forensics.md)
 
 | Challenge | Technique |
 |:----------|:----------|
@@ -84,7 +88,7 @@
 | stolen_artifact | Base64 Exfiltration |
 | notetaker | Memory Forensics |
 
-[**Steganography & Disk Forensics →**](./Forensics/Steganography_Disk_Forensics.md)
+[**Steganography & Disk Forensics →**](Steganography_Disk_Forensics.md)
 
 | Challenge | Technique |
 |:----------|:----------|
@@ -96,7 +100,7 @@
 
 ## 🏆 Final CTF Competition
 
-[**View All 12 Writeups →**](./Final_CTF/Final_CTF_Competition.md)
+[**View All 12 Writeups →**](Final_CTF_Competition.md)
 
 **Result:** 12/12 challenges solved (100%)
 

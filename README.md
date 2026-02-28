@@ -148,14 +148,9 @@ I'm passionate about solving technical problems, supporting end users, and prote
 
 **25+ hands-on CTF challenges** from FSU's CTF course across multiple security domains.
 
-| Category | Challenges | Key Techniques |
-|:---------|:----------:|:---------------|
-| [Cryptography](Capture_The_Flag/Cryptography/) | 3 | CyberChef, encoding analysis, Python |
-| [Web Exploitation](Capture_The_Flag/Web_Exploitation/) | 6 | SQL injection, XSS, SSTI, XXE |
-| [Reverse Engineering](Capture_The_Flag/Reverse_Engineering/) | 9 | Ghidra, GDB, anti-debug bypass |
-| [Binary Exploitation](Capture_The_Flag/Binary_Exploitation/) | 3 | Buffer overflow, ROP, ret2libc |
-| [Digital Forensics](Capture_The_Flag/Forensics/) | 6 | Wireshark, Volatility, steganography |
-| [Final CTF Competition](Capture_The_Flag/Final_CTF/) | 12 | Multi-domain challenges |
+| Project | Description |
+|:--------|:------------|
+| [CTF Challenges](Capture_The_Flag/) | Cryptography, web exploitation, reverse engineering, binary exploitation, digital forensics, and a 12/12 final competition |
 
 **Skills:** GDB, Wireshark, Volatility, Ghidra, pwntools, CyberChef
 

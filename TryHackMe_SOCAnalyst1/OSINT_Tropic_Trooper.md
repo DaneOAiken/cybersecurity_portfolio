@@ -1,5 +1,9 @@
 # APT Case Study — Tropic Trooper (USBFerry) 🛡️
 
+[← Back to TryHackMe Labs](README.md) · [← Back to Portfolio](../README.md)
+
+---
+
 ## Overview
 **Actor:** Tropic Trooper (aka KeyBoy)  
 **Malware:** USBFerry  
@@ -72,3 +76,7 @@ Lastly, I found the **Collection** tactic used by the APT.
 - **CTI enrichment** (OpenCTI, external resources)  
 - **ATT&CK mapping** with Navigator  
 - **Structured documentation** with evidence and references
+
+---
+
+[← Back to TryHackMe Labs](README.md) · [← Back to Portfolio](../README.md)

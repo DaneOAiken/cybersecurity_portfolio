@@ -1,5 +1,9 @@
 # TryHackMe: Summit Room
 
+[← Back to TryHackMe Labs](README.md) · [← Back to Portfolio](../README.md)
+
+---
+
 ## 🔎 Overview
 The **Summit** room on TryHackMe follows the **Pyramid of Pain** model, where each stage of the challenge requires detecting and blocking adversary activity using progressively stronger indicators.  
 This exercise simulated a **purple team scenario**: an adversary executing malware samples on a workstation while I configured security controls to detect and prevent them.  
@@ -153,3 +157,5 @@ I completed all stages, from hash-based detection to building Sigma rules for ad
 - Gained confidence in **detection engineering** to counter evolving threats.  
 
 ---
+
+[← Back to TryHackMe Labs](README.md) · [← Back to Portfolio](../README.md)

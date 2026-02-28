@@ -1,5 +1,9 @@
 # Splunk Walkthrough 1 — SSH Brute Force Detection 🛡️
 
+[← Back to Splunk Labs](README.md) · [← Back to Portfolio](../README.md)
+
+---
+
 ## Overview
 
 **Scenario:** Detect and analyze SSH brute force attempts using Splunk
@@ -151,3 +155,5 @@ index=bruteforce earliest=-7d
 * Practical brute force activity analysis
 
 ---
+
+[← Back to Splunk Labs](README.md) · [← Back to Portfolio](../README.md)
