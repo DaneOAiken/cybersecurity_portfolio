@@ -15,14 +15,14 @@
 
 ## 🔗 Quick Navigation
 
-| [🔧 AD Lab](#-active-directory-lab) | [🔍 Splunk Labs](#-splunk-home-labs) | [🎖️ TryHackMe](#️-tryhackme-soc-analyst-labs) | [🚩 CTF Challenges](#-capture-the-flag-challenges) | [📜 Certifications](#-certifications) |
-|:---:|:---:|:---:|:---:|:---:|
+| [🔧 AD Lab](#-active-directory-lab) | [☁️ M365 Lab](#️-microsoft-365--entra-id-lab) | [🔍 Splunk Labs](#-splunk-home-labs) | [🎖️ TryHackMe](#️-tryhackme-soc-analyst-labs) | [🚩 CTF Challenges](#-capture-the-flag-challenges) | [📜 Certifications](#-certifications) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ---
 
 ## 👋 About Me
 
-I am a **Computer Science graduate from Florida State University** with hands-on experience in **IT support, system administration, and cybersecurity**. My skills span **Active Directory management, Windows Server administration, SIEM analysis, digital forensics, threat intelligence, incident response, and CTF problem-solving**.
+I am a **Computer Science graduate from Florida State University** with hands-on experience in **IT support, system administration, and cybersecurity**. My skills span **Active Directory management, Windows Server administration, Microsoft 365 & Entra ID administration, SIEM analysis, digital forensics, threat intelligence, incident response, and CTF problem-solving**.
 
 I'm passionate about solving technical problems, supporting end users, and protecting organizations from cyber threats — and I'm continuously expanding my capabilities through hands-on labs, certifications, and competitive challenges.
 
@@ -62,6 +62,7 @@ I'm passionate about solving technical problems, supporting end users, and prote
 | Category | Tools & Skills |
 |:---------|:---------------|
 | **Active Directory** | User provisioning, group management, OU design, account lifecycle |
+| **Microsoft 365 / Entra ID** | Tenant admin, security groups, RBAC delegation, MFA, Conditional Access, Exchange Online |
 | **Windows Server** | AD DS, DNS, Group Policy, file shares, NTFS permissions |
 | **Networking** | TCP/IP, DHCP, DNS, static addressing, network segmentation |
 | **Virtualization** | VMware Workstation Pro, virtual networking |
@@ -101,6 +102,18 @@ I'm passionate about solving technical problems, supporting end users, and prote
 | [Active Directory Lab](Active_Directory_Lab/) | AD DS deployment, OU design, NTFS permissions, domain join, Help Desk ticket simulations |
 
 **Skills:** Windows Server, Active Directory, DNS, NTFS/Share Permissions, VMware, PowerShell
+
+---
+
+### ☁️ Microsoft 365 & Entra ID Lab
+
+**Cloud identity management, RBAC, MFA enforcement, and real-world Help Desk simulations**
+
+| Project | Description |
+|:--------|:------------|
+| [Microsoft 365 Lab](Microsoft_365_Lab/) | M365 tenant admin, Entra ID identity architecture, delegated password resets, employee offboarding |
+
+**Skills:** Microsoft 365, Entra ID, RBAC, MFA, Conditional Access, Exchange Online, Audit Logs
 
 ---
 
@@ -153,6 +166,7 @@ I'm passionate about solving technical problems, supporting end users, and prote
 | Category | Projects | Difficulty |
 |:---------|:--------:|:----------:|
 | Active Directory | 1 Lab | ⭐⭐⭐⭐ |
+| Microsoft 365 / Entra ID | 1 Lab | ⭐⭐⭐⭐ |
 | SIEM Analysis | 2 Labs | ⭐⭐⭐⭐ |
 | Threat Intelligence | 3 Cases | ⭐⭐⭐⭐ |
 | CTF Challenges | 25+ | ⭐⭐⭐⭐⭐ |
