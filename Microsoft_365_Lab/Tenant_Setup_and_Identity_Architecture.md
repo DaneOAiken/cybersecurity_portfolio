@@ -25,16 +25,16 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │          Microsoft 365 Business Premium Tenant              │
-│          aikenitservices.onmicrosoft.com                     │
+│          aikenitservices.onmicrosoft.com                    │
 │                                                             │
 │   ┌──────────────────┐    ┌──────────────────────────┐      │
 │   │  Entra ID        │    │  Microsoft 365 Services  │      │
 │   │  ───────────     │    │  ─────────────────────   │      │
-│   │  Users (10)      │    │  Exchange Online          │      │
-│   │  Security Groups │    │  Teams                    │      │
-│   │  Admin Roles     │    │  SharePoint               │      │
-│   │  Conditional     │    │  Intune                   │      │
-│   │  Access          │    │  OneDrive                 │      │
+│   │  Users (10)      │    │  Exchange Online         │      │
+│   │  Security Groups │    │  Teams                   │      │
+│   │  Admin Roles     │    │  SharePoint              │      │
+│   │  Conditional     │    │  Intune                  │      │
+│   │  Access          │    │  OneDrive                │      │
 │   └──────────────────┘    └──────────────────────────┘      │
 │                                                             │
 │   ┌──────────────────────────────────────────────────┐      │
